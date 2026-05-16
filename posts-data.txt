@@ -1,0 +1,31 @@
+window.ghlPostsData = {
+  "posts": [
+    {
+      "id": "2026-va-aid-and-attendance-rates-increase",
+      "title": "2026 VA Aid  Attendance Rates Increase",
+      "slug": "2026-va-aid-and-attendance-rates-increase",
+      "excerpt": "Married veterans can now receive up to $2,874/month to help cover care costs....",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04e6e7fa8afa3be0bd2277.png",
+      "category": "Senior Transitions",
+      "date": "2026-05-16T00:35:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/2026-va-aid-and-attendance-rates-increase",
+      "status": "published"
+    },
+    {
+      "id": "oregon-apd-waiver-renewal---public-comment-period",
+      "title": "Oregon APD Waiver Renewal - Public Comment Period",
+      "slug": "oregon-apd-waiver-renewal---public-comment-period",
+      "excerpt": "Oregon APD waiver renewal public comment period 2026",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdbf7d455340c76993f.png",
+      "category": "Senior Transitions",
+      "date": "2026-05-13T21:49:24.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/oregon-apd-waiver-renewal---public-comment-period",
+      "status": "published"
+    }
+  ],
+  "count": 2,
+  "updatedAt": "2026-05-16T17:41:40.699Z",
+  "source": "rss"
+};
