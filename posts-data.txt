@@ -26,6 +26,6 @@ window.ghlPostsData = {
     }
   ],
   "count": 2,
-  "updatedAt": "2026-05-16T18:32:51.941Z",
+  "updatedAt": "2026-05-18T19:29:28.263Z",
   "source": "rss"
 };
