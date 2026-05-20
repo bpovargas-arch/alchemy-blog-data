@@ -1,6 +1,18 @@
 window.ghlPostsData = {
   "posts": [
     {
+      "id": "when-is-it-time-to-move-a-parent",
+      "title": "How Do You Know When It's Time to Move a Parent?",
+      "slug": "when-is-it-time-to-move-a-parent",
+      "excerpt": "Wondering if it's time to move your aging parent? Learn the signs most families miss—and why waiting costs more than you think. Portland senior expert.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb06993a27a32033af.png",
+      "category": "Senior Transitions",
+      "date": "2026-05-19T09:00:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/when-is-it-time-to-move-a-parent",
+      "status": "published"
+    },
+    {
       "id": "2026-va-aid-and-attendance-rates-increase",
       "title": "2026 VA Aid  Attendance Rates Increase",
       "slug": "2026-va-aid-and-attendance-rates-increase",
@@ -25,7 +37,7 @@ window.ghlPostsData = {
       "status": "published"
     }
   ],
-  "count": 2,
-  "updatedAt": "2026-05-18T19:29:28.263Z",
+  "count": 3,
+  "updatedAt": "2026-05-20T18:17:01.185Z",
   "source": "rss"
 };
