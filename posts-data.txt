@@ -1,6 +1,30 @@
 window.ghlPostsData = {
   "posts": [
     {
+      "id": "when-geography-becomes-responsibility-the-burden-of-being-the-closest-sibling",
+      "title": "When Geography Becomes Responsibility: The Burden of Being the Closest Sibling",
+      "slug": "when-geography-becomes-responsibility-the-burden-of-being-the-closest-sibling",
+      "excerpt": "When Geography Becomes Responsibility: The Burden of Being the Closest Sibling",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/4c80d436-892b-4188-a598-447b28fa7c2a.jpg",
+      "category": "Senior Transitions",
+      "date": "2026-05-31T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/when-geography-becomes-responsibility-the-burden-of-being-the-closest-sibling",
+      "status": "published"
+    },
+    {
+      "id": "why-seniors-resist-leaving-home",
+      "title": "Why Seniors Don't Want to Leave Home (It's Not What You Think)",
+      "slug": "why-seniors-resist-leaving-home",
+      "excerpt": "Your parent's resistance to moving isn't stubbornness—it's something deeper. Understanding the real reason changes everything. Portland senior specialist.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb82125b9874cf1f7c.png",
+      "category": "Senior Transitions",
+      "date": "2026-05-26T09:00:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/why-seniors-resist-leaving-home",
+      "status": "published"
+    },
+    {
       "id": "sell-first-or-move-first-how-to-navigate-the-timing-tension-in-senior-transitions",
       "title": "Sell First or Move First? How to Navigate the Timing Tension in Senior Transitions",
       "slug": "sell-first-or-move-first-how-to-navigate-the-timing-tension-in-senior-transitions",
@@ -73,7 +97,7 @@ window.ghlPostsData = {
       "status": "published"
     }
   ],
-  "count": 6,
-  "updatedAt": "2026-05-25T21:51:44.520Z",
+  "count": 8,
+  "updatedAt": "2026-06-01T05:08:39.585Z",
   "source": "rss"
 };
