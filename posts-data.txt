@@ -1,6 +1,18 @@
 window.ghlPostsData = {
   "posts": [
     {
+      "id": "stay-vs-move-senior-housing-decision",
+      "title": "Stay vs. Move: How to Make the Right Decision for Your Parent",
+      "slug": "stay-vs-move-senior-housing-decision",
+      "excerpt": "Should your aging parent stay home or move? A clear decision framework to cut through confusion and find the right path—with compassion and clarity.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb601d54df824cb842.png",
+      "category": "Senior Transitions",
+      "date": "2026-06-02T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/stay-vs-move-senior-housing-decision",
+      "status": "published"
+    },
+    {
       "id": "when-geography-becomes-responsibility-the-burden-of-being-the-closest-sibling",
       "title": "When Geography Becomes Responsibility: The Burden of Being the Closest Sibling",
       "slug": "when-geography-becomes-responsibility-the-burden-of-being-the-closest-sibling",
@@ -97,7 +109,7 @@ window.ghlPostsData = {
       "status": "published"
     }
   ],
-  "count": 8,
-  "updatedAt": "2026-06-01T05:08:39.585Z",
+  "count": 9,
+  "updatedAt": "2026-06-08T05:07:34.707Z",
   "source": "rss"
 };
