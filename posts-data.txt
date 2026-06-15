@@ -1,6 +1,18 @@
 window.ghlPostsData = {
   "posts": [
     {
+      "id": "what-happens-after-deciding-to-move-parent",
+      "title": "What Happens After You Decide It's Time? A Step-by-Step Guide",
+      "slug": "what-happens-after-deciding-to-move-parent",
+      "excerpt": "Once your family decides it's time to move a parent, what comes next? Here's exactly what the process looks like—so it feels manageable, not overwhelming.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb51d5d92ddcb297cf.png",
+      "category": "Senior Transitions",
+      "date": "2026-06-09T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/what-happens-after-deciding-to-move-parent",
+      "status": "published"
+    },
+    {
       "id": "stay-vs-move-senior-housing-decision",
       "title": "Stay vs. Move: How to Make the Right Decision for Your Parent",
       "slug": "stay-vs-move-senior-housing-decision",
@@ -109,7 +121,7 @@ window.ghlPostsData = {
       "status": "published"
     }
   ],
-  "count": 9,
-  "updatedAt": "2026-06-08T05:07:34.707Z",
+  "count": 10,
+  "updatedAt": "2026-06-15T05:07:39.993Z",
   "source": "rss"
 };
