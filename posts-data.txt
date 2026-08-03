@@ -1,6 +1,66 @@
 window.ghlPostsData = {
   "posts": [
     {
+      "id": "best-senior-living-options-portland-oregon",
+      "title": "Best Senior Living Options in Portland, Oregon: What to Know First",
+      "slug": "best-senior-living-options-portland-oregon",
+      "excerpt": "Portland has exceptional senior living options—but knowing where to start is half the battle. A local expert breaks down what to look for to find the right fit.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb8f7fc91d3516e2b4.png",
+      "category": "Senior Transitions",
+      "date": "2026-07-14T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/best-senior-living-options-portland-oregon",
+      "status": "published"
+    },
+    {
+      "id": "life-after-moving-parent-to-senior-living",
+      "title": "What Life Actually Looks Like After a Parent's Move to Senior Living",
+      "slug": "life-after-moving-parent-to-senior-living",
+      "excerpt": "Families fear the aftermath of a senior move—but what really happens? An honest look at the adjustment, the surprises, and the moments that make it worth it.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb8c6475e185e5abe0.png",
+      "category": "Senior Transitions",
+      "date": "2026-07-07T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/life-after-moving-parent-to-senior-living",
+      "status": "published"
+    },
+    {
+      "id": "biggest-mistakes-moving-aging-parent",
+      "title": "The Biggest Mistakes Families Make When Moving a Parent—And How to Avoid Them",
+      "slug": "biggest-mistakes-moving-aging-parent",
+      "excerpt": "Most families make at least one of these costly mistakes during a senior transition. Here's what to watch for—and what to do instead.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb8c6475e185e5abdf.png",
+      "category": "Senior Transitions",
+      "date": "2026-06-30T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/biggest-mistakes-moving-aging-parent",
+      "status": "published"
+    },
+    {
+      "id": "why-senior-transition-decision-feels-heavy",
+      "title": "Why This Decision Feels So Heavy—And Why That's Completely Normal",
+      "slug": "why-senior-transition-decision-feels-heavy",
+      "excerpt": "The weight you feel making decisions about your parent's housing isn't weakness—it's love. Here's why this is hard, and how to carry it forward.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb21edbf4eefd70246.png",
+      "category": "Senior Transitions",
+      "date": "2026-06-23T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/why-senior-transition-decision-feels-heavy",
+      "status": "published"
+    },
+    {
+      "id": "cost-of-moving-a-parent-to-senior-living",
+      "title": "What Does It Really Cost to Move a Parent to Senior Living?",
+      "slug": "cost-of-moving-a-parent-to-senior-living",
+      "excerpt": "Money is often the biggest fear in a senior transition. Here's an honest, clear breakdown of the real costs—and how the family home often changes everything.",
+      "image": "https://assets.cdn.filesafe.space/hPrIWZZsR1RLnnkWiGXq/media/6a04ebdb21edbf4eefd7024b.jpg",
+      "category": "Senior Transitions",
+      "date": "2026-06-16T12:30:00.000Z",
+      "readTime": "",
+      "url": "https://alchemypnw.com/post/cost-of-moving-a-parent-to-senior-living",
+      "status": "published"
+    },
+    {
       "id": "what-happens-after-deciding-to-move-parent",
       "title": "What Happens After You Decide It's Time? A Step-by-Step Guide",
       "slug": "what-happens-after-deciding-to-move-parent",
@@ -121,7 +181,7 @@ window.ghlPostsData = {
       "status": "published"
     }
   ],
-  "count": 10,
-  "updatedAt": "2026-06-15T05:07:39.993Z",
+  "count": 15,
+  "updatedAt": "2026-08-03T18:43:59.723Z",
   "source": "rss"
 };
